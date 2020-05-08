@@ -1,3 +1,5 @@
+# Answered as a part of leetcode's May challenge
+# https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -34,4 +36,6 @@ class Solution:
             if(left_depth == right_depth):
                 return True
             else:
+                
+                #
                 return False
