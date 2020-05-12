@@ -18,3 +18,4 @@ Check If It Is a Straight Line | Python
 Valid Perfect Square | Python
 Find the Town Judge | Python
 Flood Fill | Python
+Single Element in a Sorted Array | Python
